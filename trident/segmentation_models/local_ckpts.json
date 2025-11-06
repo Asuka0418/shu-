@@ -1,0 +1,5 @@
+{
+    "hest": "/data/wl2p/TRIDENT-main/deeplabv3_seg_v4.ckpt",
+    "grandqc": "",
+    "grandqc_artifact": ""
+}
